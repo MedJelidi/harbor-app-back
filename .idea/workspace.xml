@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10678ce8-cef0-4fe2-a490-758384a847cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vnepy8ynPWGpLtDdy1HIyOED3x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.22.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.20.17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../50projects/expanding-cards" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10678ce8-cef0-4fe2-a490-758384a847cf" name="Default Changelist" comment="" />
+      <created>1627202467264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627202467264</updated>
+      <workItem from="1627202468287" duration="24823000" />
+      <workItem from="1627243275689" duration="5374000" />
+      <workItem from="1627295354897" duration="10784000" />
+      <workItem from="1627318843221" duration="12892000" />
+      <workItem from="1627660873300" duration="9800000" />
+      <workItem from="1627806990207" duration="5686000" />
+      <workItem from="1627848632717" duration="3363000" />
+      <workItem from="1627980922045" duration="3005000" />
+      <workItem from="1628078384163" duration="8107000" />
+      <workItem from="1628154653266" duration="1378000" />
+      <workItem from="1628421211492" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="599" y="355" width="782" height="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627755069873">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="599" y="355" width="782" height="410" key="#com.intellij.fileTypes.FileTypeChooser/66.27.1854.1053@66.27.1854.1053" timestamp="1627755069873" />
+    <state x="776" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1628421245833">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="776" y="311" width="424" height="491" key="FileChooserDialogImpl/66.27.1854.1053@66.27.1854.1053" timestamp="1628421245833" />
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1628078684335">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup/66.27.1854.1053@66.27.1854.1053" timestamp="1628078684335" />
+  </component>
+</project>
